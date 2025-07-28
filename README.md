@@ -86,3 +86,5 @@ _✨可以在群聊获取三角洲每日信息的查询插件✨_
 | 三角洲倒子弹 | 任何人 | 否 | 群聊 | 获取获取Top3的最高收益子弹以及曲线 |
 ### 效果图
 如果有效果图的话
+<img src="https://github.com/user-attachments/assets/4c21817a-3319-4727-9473-28b5bd8aefdb" />
+<img src="https://github.com/user-attachments/assets/7efd5477-56b9-45cc-9055-4f362cd36886" />
