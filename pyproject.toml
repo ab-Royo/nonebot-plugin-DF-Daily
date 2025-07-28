@@ -2,9 +2,8 @@
 name = "nonebot-plugin-df-daily"
 version = "0.1.0"
 description = "《三角洲行动》信息查询/推送"
-authors = [
-    {name = "abRoy",email = "abroyo@outlook.com"}
-]
+authors = ["abRoy <abroyo@outlook.com>"]
+
 repository = "https://github.com/ab-Royo/nonebot-plugin-DF-Daily"
 readme = "README.md"
 
